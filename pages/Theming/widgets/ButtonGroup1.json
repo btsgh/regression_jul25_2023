@@ -1,0 +1,242 @@
+{
+    "boxShadow": "none",
+    "mobileBottomRow": 31,
+    "widgetName": "ButtonGroup1",
+    "isCanvas": false,
+    "displayName": "Button Group",
+    "iconSVG": "/static/media/icon.bb8db4853027d74a78963c3375841e4b.svg",
+    "searchTags": [
+        "click",
+        "submit"
+    ],
+    "topRow": 27,
+    "bottomRow": 31,
+    "parentRowSpace": 10,
+    "groupButtons": {
+        "groupButtonuq292jialx": {
+            "buttonType": "SIMPLE",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "f1t70gme82",
+            "menuItems": {},
+            "index": 5,
+            "id": "groupButtonuq292jialx",
+            "label": "Group Button 3",
+            "placement": "CENTER",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "groupButton4s9ib0wtrt": {
+            "buttonType": "SIMPLE",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "9uyu7xpnry",
+            "menuItems": {},
+            "index": 4,
+            "id": "groupButton4s9ib0wtrt",
+            "label": "Group Button 2",
+            "placement": "CENTER",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "groupButtonrvt8loa50d": {
+            "buttonType": "MENU",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "0bezyt8t2l",
+            "menuItems": {
+                "menuItem0g8rgi2un8": {
+                    "widgetId": "3k0uvoqdr1",
+                    "index": 4,
+                    "id": "menuItem0g8rgi2un8",
+                    "label": "Menu Item 5",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemwik43yrcbc": {
+                    "widgetId": "zf97pygywh",
+                    "index": 7,
+                    "id": "menuItemwik43yrcbc",
+                    "label": "Menu Item 8",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem4m79ntxhfr": {
+                    "widgetId": "97x27sifau",
+                    "index": 0,
+                    "id": "menuItem4m79ntxhfr",
+                    "label": "Menu Item 1",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemlt6xc41lb7": {
+                    "widgetId": "ib88tlfoaf",
+                    "index": 2,
+                    "id": "menuItemlt6xc41lb7",
+                    "label": "Menu Item 3",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemarez782hd0": {
+                    "widgetId": "sxo2pf3n8f",
+                    "index": 9,
+                    "id": "menuItemarez782hd0",
+                    "label": "Menu Item 10",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemoajr1l7spw": {
+                    "widgetId": "rygeqefbsz",
+                    "index": 3,
+                    "id": "menuItemoajr1l7spw",
+                    "label": "Menu Item 4",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem0rbcenj34c": {
+                    "widgetId": "cwiacmiez8",
+                    "index": 5,
+                    "id": "menuItem0rbcenj34c",
+                    "label": "Menu Item 6",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemq55op88v3z": {
+                    "widgetId": "v6ujx6c6c3",
+                    "index": 6,
+                    "id": "menuItemq55op88v3z",
+                    "label": "Menu Item 7",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem3h60v2wq3e": {
+                    "widgetId": "kpav425jra",
+                    "index": 1,
+                    "id": "menuItem3h60v2wq3e",
+                    "label": "Menu Item 2",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemme3x0bg8rk": {
+                    "widgetId": "uff6bay99p",
+                    "index": 8,
+                    "id": "menuItemme3x0bg8rk",
+                    "label": "Menu Item 9",
+                    "isDisabled": false,
+                    "isVisible": true
+                }
+            },
+            "index": 3,
+            "id": "groupButtonrvt8loa50d",
+            "label": "test this button for reg",
+            "placement": "CENTER",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "groupButton3": {
+            "buttonType": "MENU",
+            "iconName": "more",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {
+                "menuItem1": {
+                    "backgroundColor": "#FFFFFF",
+                    "onClick": "",
+                    "widgetId": "",
+                    "index": 0,
+                    "label": "First Option",
+                    "id": "menuItem1",
+                    "isVisible": true,
+                    "isDisabled": false
+                },
+                "menuItem3": {
+                    "backgroundColor": "#DD4B34",
+                    "onClick": "",
+                    "iconName": "trash",
+                    "widgetId": "",
+                    "iconColor": "#FFFFFF",
+                    "iconAlign": "right",
+                    "index": 2,
+                    "label": "Delete",
+                    "id": "menuItem3",
+                    "isVisible": true,
+                    "isDisabled": false,
+                    "textColor": "#FFFFFF"
+                },
+                "menuItem2": {
+                    "backgroundColor": "#FFFFFF",
+                    "onClick": "",
+                    "widgetId": "",
+                    "index": 1,
+                    "label": "Second Option",
+                    "id": "menuItem2",
+                    "isVisible": true,
+                    "isDisabled": false
+                }
+            },
+            "index": 2,
+            "label": "More",
+            "id": "groupButton3",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "groupButton1": {
+            "buttonType": "SIMPLE",
+            "iconName": "heart",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {},
+            "index": 0,
+            "label": "Favorite",
+            "id": "groupButton1",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "groupButton2": {
+            "buttonType": "SIMPLE",
+            "iconName": "add",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {},
+            "index": 1,
+            "label": "Add",
+            "id": "groupButton2",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "type": "BUTTON_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 25,
+    "animateLoading": true,
+    "parentColumnSpace": 14.09375,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 1,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "groupButtons.groupButton1.buttonColor"},
+        {"key": "groupButtons.groupButton2.buttonColor"},
+        {"key": "groupButtons.groupButton3.buttonColor"},
+        {"key": "groupButtons.groupButtonrvt8loa50d.buttonColor"},
+        {"key": "groupButtons.groupButton4s9ib0wtrt.buttonColor"},
+        {"key": "groupButtons.groupButtonuq292jialx.buttonColor"}
+    ],
+    "key": "wojmqhcq0n",
+    "orientation": "horizontal",
+    "isDeprecated": false,
+    "rightColumn": 52,
+    "widgetId": "ca9o03blfh",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Buttons"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 27,
+    "responsiveBehavior": "fill",
+    "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 1,
+    "buttonVariant": "PRIMARY"
+}

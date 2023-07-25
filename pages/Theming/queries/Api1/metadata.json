@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "OAuth",
+    "pageId": "Theming",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -40,7 +40,7 @@
         "apiContentType": "application/json"
       }
     },
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
@@ -50,9 +50,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2023-07-25T12:33:37Z"
+    "createdAt": "2023-07-25T14:10:16Z"
   },
-  "id": "OAuth_Api1",
+  "id": "Theming_Api1",
   "deleted": false,
   "gitSyncId": "64bfc05343bbc9740b6425d4_64bfc12143bbc9740b64260b"
 }

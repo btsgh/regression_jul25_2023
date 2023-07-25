@@ -1,0 +1,266 @@
+{
+    "boxShadow": "none",
+    "mobileBottomRow": 53,
+    "widgetName": "ButtonGroup2",
+    "isCanvas": false,
+    "displayName": "Button Group",
+    "iconSVG": "/static/media/icon.bb8db4853027d74a78963c3375841e4b.svg",
+    "searchTags": [
+        "click",
+        "submit"
+    ],
+    "topRow": 49,
+    "bottomRow": 53,
+    "parentRowSpace": 10,
+    "groupButtons": {
+        "groupButton3": {
+            "buttonType": "MENU",
+            "iconName": "more",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {
+                "menuItemsgb62iwczc": {
+                    "widgetId": "d4n7air69d",
+                    "index": 5,
+                    "id": "menuItemsgb62iwczc",
+                    "label": "Menu Item 3",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem6594kuyqmy": {
+                    "widgetId": "qbcov79jub",
+                    "index": 6,
+                    "id": "menuItem6594kuyqmy",
+                    "label": "Menu Item 4",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItems15m82oe3d": {
+                    "widgetId": "h9qpjkdru8",
+                    "index": 7,
+                    "id": "menuItems15m82oe3d",
+                    "label": "Menu Item 5",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemfe3c917g1h": {
+                    "widgetId": "llrvucqu3o",
+                    "index": 8,
+                    "id": "menuItemfe3c917g1h",
+                    "label": "Menu Item 6",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem8gwws0te82": {
+                    "widgetId": "h1in5559fk",
+                    "index": 20,
+                    "id": "menuItem8gwws0te82",
+                    "label": "Menu Item 18",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem4gwy7cm3uv": {
+                    "widgetId": "kpnwstcbif",
+                    "index": 13,
+                    "id": "menuItem4gwy7cm3uv",
+                    "label": "Menu Item 11",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem14dpt57h4a": {
+                    "widgetId": "e9dt7p67rz",
+                    "index": 18,
+                    "id": "menuItem14dpt57h4a",
+                    "label": "Menu Item 16",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem3": {
+                    "backgroundColor": "#DD4B34",
+                    "onClick": "",
+                    "iconName": "trash",
+                    "widgetId": "",
+                    "iconColor": "#FFFFFF",
+                    "iconAlign": "right",
+                    "index": 2,
+                    "label": "Delete",
+                    "id": "menuItem3",
+                    "isVisible": true,
+                    "isDisabled": false,
+                    "textColor": "#FFFFFF"
+                },
+                "menuItem9xwwutprft": {
+                    "widgetId": "2dh8ct7fbk",
+                    "index": 4,
+                    "id": "menuItem9xwwutprft",
+                    "label": "Menu Item 2",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemhzramcwts0": {
+                    "widgetId": "q2k7nalec1",
+                    "index": 17,
+                    "id": "menuItemhzramcwts0",
+                    "label": "Menu Item 15",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem2": {
+                    "backgroundColor": "#FFFFFF",
+                    "onClick": "",
+                    "widgetId": "",
+                    "index": 1,
+                    "label": "Second Option",
+                    "id": "menuItem2",
+                    "isVisible": true,
+                    "isDisabled": false
+                },
+                "menuItemovbqupj0kl": {
+                    "widgetId": "il47w9zou6",
+                    "index": 16,
+                    "id": "menuItemovbqupj0kl",
+                    "label": "Menu Item 14",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemzi30945f3z": {
+                    "widgetId": "9ogu1gl2yo",
+                    "index": 11,
+                    "id": "menuItemzi30945f3z",
+                    "label": "Menu Item 9",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemoljby8li1z": {
+                    "widgetId": "jm0o4qxie4",
+                    "index": 14,
+                    "id": "menuItemoljby8li1z",
+                    "label": "Menu Item 12",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemlqv37lahtv": {
+                    "widgetId": "d5adog7ybi",
+                    "index": 19,
+                    "id": "menuItemlqv37lahtv",
+                    "label": "Menu Item 17",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemup1ih0yk93": {
+                    "widgetId": "dfv6bfp9tn",
+                    "index": 9,
+                    "id": "menuItemup1ih0yk93",
+                    "label": "Menu Item 7",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemjy0wswb4c8": {
+                    "widgetId": "rlltizgk2p",
+                    "index": 15,
+                    "id": "menuItemjy0wswb4c8",
+                    "label": "Menu Item 13",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemgfncshq6gl": {
+                    "widgetId": "djhgan4o7d",
+                    "index": 10,
+                    "id": "menuItemgfncshq6gl",
+                    "label": "Menu Item 8",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem1": {
+                    "backgroundColor": "#FFFFFF",
+                    "onClick": "",
+                    "widgetId": "",
+                    "index": 0,
+                    "label": "First Option",
+                    "id": "menuItem1",
+                    "isVisible": true,
+                    "isDisabled": false
+                },
+                "menuItem960ib85653": {
+                    "widgetId": "53iojw8aeq",
+                    "index": 3,
+                    "id": "menuItem960ib85653",
+                    "label": "Menu Item 1",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemdnyasdw1e2": {
+                    "widgetId": "p0tvsls21u",
+                    "index": 12,
+                    "id": "menuItemdnyasdw1e2",
+                    "label": "Menu Item 10",
+                    "isDisabled": false,
+                    "isVisible": true
+                }
+            },
+            "index": 2,
+            "label": "More",
+            "id": "groupButton3",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "groupButton1": {
+            "buttonType": "SIMPLE",
+            "iconName": "heart",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {},
+            "index": 0,
+            "label": "Favorite",
+            "id": "groupButton1",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "groupButton2": {
+            "buttonType": "SIMPLE",
+            "iconName": "add",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "widgetId": "",
+            "menuItems": {},
+            "index": 1,
+            "label": "Add",
+            "id": "groupButton2",
+            "placement": "CENTER",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "type": "BUTTON_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 26,
+    "animateLoading": true,
+    "parentColumnSpace": 14.09375,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 2,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "groupButtons.groupButton1.buttonColor"},
+        {"key": "groupButtons.groupButton2.buttonColor"},
+        {"key": "groupButtons.groupButton3.buttonColor"}
+    ],
+    "key": "wojmqhcq0n",
+    "orientation": "horizontal",
+    "isDeprecated": false,
+    "rightColumn": 40,
+    "widgetId": "kfrr2wvot1",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Buttons"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 49,
+    "responsiveBehavior": "fill",
+    "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 2,
+    "buttonVariant": "PRIMARY"
+}
