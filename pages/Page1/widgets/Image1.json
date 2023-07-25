@@ -1,5 +1,5 @@
 {
-    "boxShadow": "none",
+    "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
     "mobileBottomRow": 27,
     "widgetName": "Image1",
     "onClick": "{{download('Image1.image', 'image.JPEG', 'image/jpeg');}}",
@@ -12,22 +12,24 @@
     "type": "IMAGE_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 20,
+    "topRowBeforeCollapse": 15,
     "animateLoading": true,
     "parentColumnSpace": 20.109375,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "imageShape": "RECTANGLE",
     "leftColumn": 8,
     "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "defaultImage"}
+        {"key": "defaultImage"},
+        {"key": "borderRadius"}
     ],
     "defaultImage": "{{RadioGroup1.selectedOptionValue}}",
     "key": "ldst1ukgja",
     "image": "",
     "isDeprecated": false,
     "rightColumn": 20,
-    "objectFit": "contain",
+    "objectFit": "cover",
     "widgetId": "zfoj2qqhpe",
+    "bottomRowBeforeCollapse": 27,
     "isVisible": true,
     "version": 1,
     "parentId": "0",
@@ -36,8 +38,10 @@
     "isLoading": false,
     "mobileTopRow": 15,
     "maxZoomLevel": 1,
-    "enableDownload": false,
+    "enableDownload": true,
+    "originalTopRow": 15,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 8,
-    "enableRotation": false
+    "originalBottomRow": 27,
+    "enableRotation": true
 }
