@@ -1,0 +1,69 @@
+{
+    "boxShadow": "none",
+    "mobileBottomRow": 16,
+    "widgetName": "RadioGroup1",
+    "displayName": "Radio Group",
+    "iconSVG": "/static/media/icon.99c101b3b70073f9c00e9af6523f9427.svg",
+    "searchTags": ["choice"],
+    "topRow": 10,
+    "bottomRow": 18,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "RADIO_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 49,
+    "defaultOptionValue": "",
+    "animateLoading": true,
+    "parentColumnSpace": 20.109375,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 29,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "label": "JPG",
+            "value": "https://jpeg.org/images/jpegsystems-home.jpg"
+        },
+        {
+            "label": "GIF",
+            "value": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"
+        },
+        {
+            "label": "PNG",
+            "value": "https://assets.appsmith.com/widgets/default.png"
+        },
+        {
+            "label": "WebP",
+            "value": "https://www.gstatic.com/webp/gallery/4.sm.webp"
+        },
+        {
+            "label": "SVG",
+            "value": "https://assets.codepen.io/3/kiwi.svg"
+        }
+    ],
+    "isDisabled": false,
+    "key": "sl0zff3mb1",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 49,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "el2zxhjend",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "label": "Label",
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Toggles"],
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 10,
+    "originalTopRow": 10,
+    "mobileLeftColumn": 29,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 18,
+    "isInline": true,
+    "alignment": "left",
+    "minDynamicHeight": 4
+}
