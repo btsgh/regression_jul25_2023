@@ -219,11 +219,60 @@
             "isDisabled": false
         },
         "groupButton2": {
-            "buttonType": "SIMPLE",
+            "buttonType": "MENU",
             "iconName": "add",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
             "widgetId": "",
-            "menuItems": {},
+            "menuItems": {
+                "menuItemny4igk4i02": {
+                    "widgetId": "7bpda3td6d",
+                    "index": 0,
+                    "id": "menuItemny4igk4i02",
+                    "label": "Menu Item 1",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem9nc8ag2p2f": {
+                    "widgetId": "uam9w7uo3s",
+                    "index": 4,
+                    "id": "menuItem9nc8ag2p2f",
+                    "label": "Menu Item 5",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemclck4y1td8": {
+                    "widgetId": "2in0i9s3ta",
+                    "index": 5,
+                    "id": "menuItemclck4y1td8",
+                    "label": "Menu Item 6",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItemuveb0dsdtx": {
+                    "widgetId": "yj9ukf0rjh",
+                    "index": 2,
+                    "id": "menuItemuveb0dsdtx",
+                    "label": "Menu Item 3",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem0r2l3rjge9": {
+                    "widgetId": "9t2f5f6k49",
+                    "index": 3,
+                    "id": "menuItem0r2l3rjge9",
+                    "label": "Menu Item 4",
+                    "isDisabled": false,
+                    "isVisible": true
+                },
+                "menuItem8wy58d0jvc": {
+                    "widgetId": "nh3gbf7lvx",
+                    "index": 1,
+                    "id": "menuItem8wy58d0jvc",
+                    "label": "Menu Item 2",
+                    "isDisabled": false,
+                    "isVisible": true
+                }
+            },
             "index": 1,
             "label": "Add",
             "id": "groupButton2",
