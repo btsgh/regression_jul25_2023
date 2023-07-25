@@ -1,0 +1,69 @@
+{
+    "boxShadow": "none",
+    "iconSVG": "/static/media/icon.99c101b3b70073f9c00e9af6523f9427.svg",
+    "topRow": 15,
+    "labelWidth": 5,
+    "type": "RADIO_GROUP_WIDGET",
+    "defaultOptionValue": "",
+    "animateLoading": true,
+    "leftColumn": 5,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "labelTooltip": "SELECT ANY VALUE",
+    "onSelectionChange": "{{Api1.run()}}",
+    "options": [
+        {
+            "label": "Yes",
+            "value": "https://reqres.in/api/users?page=2"
+        },
+        {
+            "label": "No",
+            "value": "https://google.com"
+        },
+        {
+            "label": "NA",
+            "value": "https://wikipedia.com"
+        },
+        {
+            "label": "Error",
+            "value": "Er"
+        }
+    ],
+    "labelStyle": "BOLD,ITALIC",
+    "isDisabled": false,
+    "isRequired": true,
+    "dynamicHeight": "FIXED",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 1,
+    "tags": ["Toggles"],
+    "isLoading": false,
+    "alignment": "left",
+    "mobileBottomRow": 21,
+    "widgetName": "RadioGroup1",
+    "dynamicPropertyPathList": [],
+    "displayName": "Radio Group",
+    "searchTags": ["choice"],
+    "bottomRow": 30,
+    "parentRowSpace": 10,
+    "hideCard": false,
+    "mobileRightColumn": 25,
+    "shouldScrollContents": true,
+    "parentColumnSpace": 20.109375,
+    "dynamicTriggerPathList": [{"key": "onSelectionChange"}],
+    "labelPosition": "Auto",
+    "labelTextColor": "#16a34a",
+    "key": "50y6a7krg3",
+    "labelTextSize": "1.25rem",
+    "isDeprecated": false,
+    "rightColumn": 25,
+    "widgetId": "f7ywk1o2uj",
+    "label": "Radiogroupoption",
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 15,
+    "mobileLeftColumn": 5,
+    "maxDynamicHeight": 17,
+    "isInline": false,
+    "minDynamicHeight": 4
+}

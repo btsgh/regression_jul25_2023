@@ -11,6 +11,10 @@
     {
       "id": "Iconwidget",
       "isDefault": false
+    },
+    {
+      "id": "Radio",
+      "isDefault": false
     }
   ],
   "viewMode": false,
