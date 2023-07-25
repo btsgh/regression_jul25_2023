@@ -7,6 +7,10 @@
     {
       "id": "Camera",
       "isDefault": false
+    },
+    {
+      "id": "Iconwidget",
+      "isDefault": false
     }
   ],
   "viewMode": false,
