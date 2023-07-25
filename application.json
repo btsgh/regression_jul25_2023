@@ -3,6 +3,10 @@
     {
       "id": "OAuth",
       "isDefault": true
+    },
+    {
+      "id": "Camera",
+      "isDefault": false
     }
   ],
   "viewMode": false,
