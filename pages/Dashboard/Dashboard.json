@@ -34,8 +34,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
               "jsonPathKeys": [
-                "data_table.pageSize",
-                "(data_table.pageNo - 1) * data_table.pageSize"
+                "(data_table.pageNo - 1) * data_table.pageSize",
+                "data_table.pageSize"
               ],
               "timeoutInMillisecond": 10000
             }
