@@ -2,15 +2,11 @@
   "pages": [
     {
       "id": "OAuth",
-      "isDefault": true
-    },
-    {
-      "id": "Page1",
       "isDefault": false
     },
     {
       "id": "Public.users",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Dashboard",
