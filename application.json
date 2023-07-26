@@ -1,19 +1,31 @@
 {
   "pages": [
     {
+      "id": "2 Application Upload",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications",
+      "isDefault": false
+    },
+    {
       "id": "OAuth",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#FFEBFB",
-  "icon": "arrow-up",
+  "color": "#C7F3E3",
+  "icon": "moon",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false

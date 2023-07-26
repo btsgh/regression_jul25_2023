@@ -1,54 +1,41 @@
 {
   "unpublishedPage": {
-    "name": "OAuth",
-    "slug": "oauth",
+    "name": "Page1",
+    "slug": "page1",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 680,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 67,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 81,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 690,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "name": "Api1",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
-        "layoutOnLoadActionErrors": [],
+        "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
-        "id": "OAuth",
+        "id": "Page1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": [],
-    "isHidden": false
+    "policies": []
   },
   "deleted": false,
-  "gitSyncId": "64bfbc4443bbc9740b642538_64bfbc4443bbc9740b64253b"
+  "gitSyncId": "64c02d8743bbc9740b642e56_64c08e7c43bbc9740b642e82"
 }
