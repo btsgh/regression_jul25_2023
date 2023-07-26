@@ -11,6 +11,10 @@
     {
       "id": "Public.users",
       "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
     }
   ],
   "viewMode": false,
